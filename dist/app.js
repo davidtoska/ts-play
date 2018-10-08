@@ -1,4 +1,4 @@
 "use strict";
 console.log("its working 22 3 sd dlj");
-console.log("oppdaterer i git");
+console.log("oppdaterer i git anf nowe what??");
 //# sourceMappingURL=app.js.map
